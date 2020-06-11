@@ -1,0 +1,14 @@
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.deps.json
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfo.cs
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CopyComplete
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.dll
+C:\Users\furkan\Desktop\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.pdb
